@@ -133,6 +133,6 @@ python StaticAnalyzer/analyzer.py path/to/target/files
 
 ---
 
-## 🧾 Disclaimer
+## Disclaimer
 
 The authors of this toolkit are **not responsible for any misuse** of the provided code. Use responsibly and ethically.
